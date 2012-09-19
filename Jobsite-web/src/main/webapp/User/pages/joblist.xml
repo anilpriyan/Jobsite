@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jobs>
+	<job>
+		<title>Java Developer 1</title>
+		<description>Java Developer 1</description>
+		<location>london</location>
+	</job>
+	<job>
+		<title>Java Developer</title>
+		<description>Java Developer 2</description>
+		<location>london</location>
+	</job>  
+</jobs>

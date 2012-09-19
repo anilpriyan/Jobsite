@@ -1,0 +1,54 @@
+
+#clickMe {
+    background: #D8B36E;
+    padding: 20px;
+    text-align: center;
+    width: 205px;
+    display: block;
+    border: 2px solid #000;
+}
+
+#picframe {
+    background: #D8B36E;
+    padding: 20px;
+    width: 640px; 
+    display: none;
+    border: 2px solid #000;
+}
+
+body,
+html {
+	margin:0;
+	padding:0;
+	color:#000;
+	background:#a7a09a;
+}
+
+#wrap {
+	width:1000px;
+	margin:0 auto;
+	background:#fff;
+}
+
+#search {
+	/*float:left;*/
+	width:200px;
+	background:#fff;
+}
+
+#accordion {
+	width:800px;
+	height:800px;
+	background:#fff;
+}
+
+#header {
+	height:200px;
+	background:#ccc;
+}
+
+#footer {
+	clear:both;
+	height:200px;
+	background:#ccc;
+}
